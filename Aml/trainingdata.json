@@ -1,0 +1,23 @@
+{
+  "SourceDirectory": "c:\\ApAml",
+  "ScriptConfigFile": "c:\\ApAml\\prepare.config",
+  "RepositoryUri": "https://microsoft.visualstudio.com/Analog/_git/analog.AnalysisPlatformGT",
+  "RepoCommitId": "6b3bf0efc",
+  "DatasetName": "SampleDataset",
+  "SuiteUUID": "cefc6f57-f38e-4287-a6af-89745c97b8e3",
+  "TrainingObjectType": "SampleType",
+  "Uuid": "d97fbeee-281a-4fbb-80b3-64e40beb7cba",
+  "FileFormatCodes": [
+    "2163",
+    "2165"
+  ],
+  "DirectoryFormatCodes": [
+    "2166",
+    "2164"
+  ],
+  "RunWFStage": true,
+  "PrepareStages": [
+    "ProcessClip",
+    "Upload"
+  ]
+}
