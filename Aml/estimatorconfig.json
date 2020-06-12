@@ -1,0 +1,4 @@
+{
+  "conda_packages": ["numpy", "pillow"],
+  "pip_packages": ["facenet-pytorch", "torch===1.4.0", "torchvision===0.5.0", "mpi4py"]
+}
